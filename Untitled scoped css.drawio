@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-17T14:13:45.942Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="cEAJUzJf5tE20pPjCCOP" version="14.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-18T01:42:19.280Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="unEJ-mAmMPFSY8Sbm7Cn" version="14.4.7" type="github">
   <diagram id="snzV0zkpX5HuJy0jhirF" name="Page-1">
     <mxGraphModel dx="946" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -113,18 +113,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="paWIo_fODG15XczuzQRw-6" value="&lt;b&gt;vue-loader&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#27F6DA;" parent="1" vertex="1">
-          <mxGeometry x="370" y="1250.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="1250.5" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="paWIo_fODG15XczuzQRw-7" value="&lt;span&gt;render 函数&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#00F57C;" parent="1" vertex="1">
-          <mxGeometry x="630" y="1130" width="120" height="60" as="geometry" />
+        <mxCell id="paWIo_fODG15XczuzQRw-7" value="&lt;span&gt;template、script、style代码块&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#00F57C;" parent="1" vertex="1">
+          <mxGeometry x="630" y="1130" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="paWIo_fODG15XczuzQRw-8" value="&lt;span&gt;组件实例&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#00F57C;" parent="1" vertex="1">
-          <mxGeometry x="630" y="1250" width="120" height="60" as="geometry" />
+          <mxGeometry x="630" y="1250" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="paWIo_fODG15XczuzQRw-9" value="&lt;span&gt;css（编译后）&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#00F57C;" parent="1" vertex="1">
-          <mxGeometry x="630" y="1360" width="120" height="60" as="geometry" />
+          <mxGeometry x="630" y="1360" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="paWIo_fODG15XczuzQRw-15" value="编译 template" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="paWIo_fODG15XczuzQRw-15" value="解析组件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="520" y="1200" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="paWIo_fODG15XczuzQRw-16" value="拼接 query" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -133,7 +133,7 @@
         <mxCell id="paWIo_fODG15XczuzQRw-18" value="postcss" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="562" y="930" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="paWIo_fODG15XczuzQRw-20" value="postcss 转化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="paWIo_fODG15XczuzQRw-20" value="编译转化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="524" y="1340" width="76" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RzEKwcw9UKyjINNDPMjQ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
