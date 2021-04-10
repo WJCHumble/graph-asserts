@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2021-04-10T05:56:24.471Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" version="14.5.3" etag="nXcHTARBXJoP2GTRDLVv" type="github"><diagram id="tBr4xV8PJ53dL-Oh-Xvg">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-10T08:42:25.616Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="lDbAQ6kGiuTZb-zzPHVo" version="14.5.3" type="github">
+  <diagram id="tBr4xV8PJ53dL-Oh-Xvg" name="Page-1">
+    <mxGraphModel dx="946" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XUdqDrvKcbViAv0saBe0-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="110" width="880" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="XUdqDrvKcbViAv0saBe0-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XUdqDrvKcbViAv0saBe0-3" target="XUdqDrvKcbViAv0saBe0-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XUdqDrvKcbViAv0saBe0-3" value="import 语句" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="260" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XUdqDrvKcbViAv0saBe0-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XUdqDrvKcbViAv0saBe0-4" target="XUdqDrvKcbViAv0saBe0-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XUdqDrvKcbViAv0saBe0-4" value="vite-plugin-style-import" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="260" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XUdqDrvKcbViAv0saBe0-10" value="生产环境" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="255" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XUdqDrvKcbViAv0saBe0-12" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="190" width="120" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
